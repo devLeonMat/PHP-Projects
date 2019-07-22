@@ -18,12 +18,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			window.scrollTo(0, 1);
 		}
 	</script>
-
+	<script src="fontsw/js/fontawesome.js"></script>
 	<!-- css files -->
 	<link href="css/css_slider.css" rel="stylesheet"><!-- Slider css -->
 	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
 	<link href="css/style.css" rel='stylesheet' type='text/css' /><!-- custom css -->
-	<link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
+	<link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->	
 	<link rel="icon" type="image/png" href="images/icono.png" />
 	<!-- //css files -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -36,3 +36,4 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- //google fonts -->
 
 </head>
+<body>

@@ -9,7 +9,7 @@
 							II 306, Bellavista - Callao
 						</li>
 						<li class="my-2"><span class="fa mr-1 fa-phone"></span>(+51) 995 084 713</li>
-						<li class="my-2"><span class="fa mr-1 fa-phone"></span>(+51) 995 084 713</li>
+						<li class="my-2"><span class="fa mr-1 fa-phone"></span>(+51) 998 063 779</li>
 						<li class=""><span class="fa mr-1 fa-envelope"></span><a
 								href="mailto:info@techspacesystems.com">info@techspacesystems.com</a></li>
 					</ul>
@@ -18,27 +18,27 @@
 					<h4 class="mb-sm-4 mb-3 w3f_title"> Mapa Web</h4>
 					<ul class="list-w3">
 						<li class="my-2">
-							<a href="index.html">
+							<a href="index.php">
 								Inicio
 							</a>
 						</li>
 						<li class="mb-2">
-							<a href="about.html">
+							<a href="nosotros.php">
 								Nosotros
 							</a>
 						</li>
 						<li class="my-2">
-							<a href="Cursos.html">
+							<a href="servicios.php">
 								Cursos
 							</a>
 						</li>
 						<li class="my-2">
-							<a href="Talleres">
+							<a href="talleres.php">
 								Talleres
 							</a>
 						</li>
 						<li>
-							<a href="contact.html">
+							<a href="contacto.php">
 								Contactanos
 							</a>
 						</li>
@@ -115,6 +115,19 @@
 			<span class="fa fa-angle-up  mb-3" aria-hidden="true"></span>
 		</a>
 	</div>
+
+<!-- Start of Async Callbell Code -->
+<script>
+  window.callbellSettings = {
+    token: "pqsdezKPPtByFRavd2dxN3JN"
+  };
+</script>
+<script>
+  (function(){var w=window;var ic=w.callbell;if(typeof ic==="function"){ic('reattach_activator');ic('update',callbellSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Callbell=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://dash.callbell.eu/include/'+window.callbellSettings.token+'.js';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+</script>
+<!-- End of Async Callbell Code -->
+
+
 	<!-- move top -->
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 		integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
@@ -125,3 +138,6 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
 		integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
 	</script>
+	</body>
+
+</html>
